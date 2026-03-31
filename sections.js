@@ -1,3 +1,0 @@
-export const sections = [
-  'General points','Faculty joined / relieved','Faculty achievements','Student achievements','Department achievements','Faculty events conducted','Student events conducted','Non-technical events conducted','Industry / college visits','Hackathon / external event participation','Faculty FDP / certification attendance','Faculty visits','Patents published','VEDIC programs','Placements','MoUs signed','Skill development programs'
-];
